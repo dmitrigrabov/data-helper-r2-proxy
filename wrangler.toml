@@ -1,0 +1,10 @@
+name = "data-helper-r2-proxy"
+main = "src/index.ts"
+compatibility_date = "2022-07-02"
+
+account_id = "3f82a87d4eb4ae6a296bb97cc8e27fa7"
+workers_dev = true
+
+[[r2_buckets]]
+binding = 'MAP_BUCKET'
+bucket_name = 'improved-parakeet'
